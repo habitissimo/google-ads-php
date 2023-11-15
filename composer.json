@@ -2,6 +2,7 @@
   "name": "habitissimo/google-ads-php",
   "homepage": "https://github.com/habitissimo/google-ads-php",
   "description": "Google Ads API client for PHP",
+  "version": "21.1.0",
   "require": {
     "php": ">=7.4",
     "google/gax": "^1.19.1",
